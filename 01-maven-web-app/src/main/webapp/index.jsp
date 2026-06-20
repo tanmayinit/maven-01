@@ -1,5 +1,7 @@
 <html>
 <body>
+    <img src="cute-dog.jpg" alt="A happy golden retriever puppy playing with a ball">
+
     <h1 style="color: green;">Hello World!</h1>
     <h2 style="color: rgb(60, 60, 67);">welcome to my maven project</h2>
      <p1> Recent change in SIT server</p1>
